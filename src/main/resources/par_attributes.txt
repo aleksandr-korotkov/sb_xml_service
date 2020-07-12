@@ -1,0 +1,19 @@
+step = 1
+name = ГРАЖДАНСТВО
+fullname = Гражданство
+comment = Выберите гражданство, лица за кого оплачивается услуга, из списка
+isEditable = 1
+isScanable = 0
+isVisible = 1
+isRequired = 1
+isPrinted = 1
+isValidateOnLine = 1
+type = M
+min_length = 0
+max_length = 250
+double_input = 0
+value = РОССИЯ
+reg_exp = 
+from_debt = 0
+par_list elements : 
+value = РОССИЯ
